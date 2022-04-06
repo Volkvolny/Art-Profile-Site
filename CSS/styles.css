@@ -1,0 +1,133 @@
+/*************
+
+Colours: [Courtesy of Color-hex]
+
+#08182e - Dark Navy Blue
+#bdd8ef - Light Pastel Blue
+#7fc6de - Teal
+#418fe2 - Medium Wash Blue Jean Blue
+#c8b1b7 - Kinda Beige?
+
+*************/
+
+body
+{
+  margin: 0;
+}
+
+h1
+{
+  margin: 0;
+  padding-top: 1%;
+}
+
+hr
+{
+  color: #7fc6de;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 35%;
+}
+
+.imgMargin
+{
+  margin-bottom: 1%;
+}
+
+.merriweather
+{
+  font-family: 'Merriweather', serif;
+}
+
+.sacramento
+{
+  font-family: 'Sacramento', cursive;
+  color: #418fe2;
+}
+
+.montserrat
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #08182e;
+}
+
+.topContainer
+{
+  background-color: #bdd8ef;
+  text-align: center;
+}
+
+.bottomContainer
+{
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+
+.secondContainer
+{
+  margin-top: 2%;
+  text-align: center;
+}
+
+.NaiaContainer
+{
+  display: flex;
+  align-items: center;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillContainer
+{
+  display: flex;
+  align-items: center;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.clearFloat
+{
+  clear: both;
+}
+
+.floatLeft
+{
+  float: left;
+}
+
+.floatRight
+{
+  float: right;
+}
+
+.largeFont
+{
+  font-size: 5rem;
+}
+
+.middleFont
+{
+  font-size: 2rem;
+}
+
+.mediumFont
+{
+  font-size: 1.25rem;
+}
+
+.clouds
+{
+  position: absolute;
+}
+
+.clouds1
+{
+  position: absolute;
+  bottom: 68%;
+  left: 56%;
+}
